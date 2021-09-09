@@ -1,4 +1,4 @@
-= Vert.x 4 examples
+= Vert.x 4 examples :
 
 This repository contains a range of examples so you can get up and running easily with Vert.x. 4
 
